@@ -14,6 +14,16 @@ The analysis leverages data contained within three CSV files, each corresponding
 
 ## Usage
 Run the script in a terminal which will prompt user inputs for a tailored analysis experience.
+## Running the Script
+
+To execute the provided script from the terminal, ensure you have Python installed on your machine. It's recommended to have Python version 3.6 or later.
+
+1. **Navigate to the Project Directory:**
+   Open a terminal and navigate to the directory containing the script using the `cd` command. 
+  
+   - cd path/to/project-directory
+   - pip install -r requirements.txt
+   - python script.py
 
 ## Credits
 This project is a fork from [Udacity's PDSND Repository](https://github.com/udacity/pdsnd_github).
