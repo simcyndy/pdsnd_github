@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Bike Share System Project
 
-### Date created
-Include the date you created this project and README file.
+## Overview
+Explore and analyze data associated with bike share systems across three major US cities: Chicago, New York City, and Washington. The project delves into descriptive statistical analysis to uncover trends and insights. Through a script, users are able to interact with the data in a terminal, providing a dynamic exploration experience.
 
-### Project Title
-Replace the Project Title
+## Date of Creation
+October 12, 2023
 
-### Description
-Describe what your project is about and what it does
+## Dataset
+The analysis leverages data contained within three CSV files, each corresponding to a city under investigation:
+- `chicago.csv`
+- `new_york_city.csv`
+- `washington.csv`
 
-### Files used
-Include the files used
+## Usage
+Run the script in a terminal which will prompt user inputs for a tailored analysis experience.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## Credits
+This project is a fork from [Udacity's PDSND Repository](https://github.com/udacity/pdsnd_github).
 
+## Dependencies
+Ensure you have the required libraries installed before running the script. For more information, refer to the `requirements.txt` file (if available).
