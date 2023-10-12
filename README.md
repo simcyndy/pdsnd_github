@@ -25,6 +25,12 @@ To execute the provided script from the terminal, ensure you have Python install
    - pip install -r requirements.txt
    - python script.py
 
+2. **Install Any Dependencies:**
+    - pip install -r requirements.txt
+
+3. **Run the Script:**
+    - python3 script.py
+
 ## Credits
 This project is a fork from [Udacity's PDSND Repository](https://github.com/udacity/pdsnd_github).
 
